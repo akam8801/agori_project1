@@ -6,6 +6,7 @@ public class GeunhaClass {
 		// TODO Auto-generated method stub
 		System.out.println("수정 1번입니다.");
 		System.out.println("수정 2번입니다.");
+		System.out.println("부렌치를 따보자1");
 	}
 
 }
